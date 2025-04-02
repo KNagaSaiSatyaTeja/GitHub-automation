@@ -4,7 +4,7 @@ public class Main {
         if (arr.length < 3) return 0;
 
         int longest = 0;
-//modified java solution
+//modified java solution.
         
         
         for (int i = 1; i < arr.length - 1; i++) {
